@@ -1,15 +1,15 @@
 # 👋 Hi there! I'm MD Al Fahad
 
 ![Profile Banner](https://img.shields.io/badge/Full--Stack%20Developer-AI%20Trainer-blue?style=for-the-badge&logo=react)
-![Profile Banner](https://img.shields.io/badge/Vice--President-CSE%20Society%20SUST-00529B?style=for-the-badge)
+
 
 ## 🚀 About Me
 I am an undergraduate senior majoring in **Computer Science and Engineering** at **Shahjalal University of Science and Technology (SUST)**. I am driven by building impactful software, from IoT solutions to enterprise-grade backends.
 
-* 🎓 **Education:** B.Sc. in CSE at SUST (CGPA: 3.51)
+* 🎓 **Education:** B.Sc. in CSE at SUST 
 * 🏛️ **Leadership:** Vice President at **CSE Society, SUST** (Leading 500+ students)
 * 🧠 **Experience:** AI Trainer at **Outlier** (Optimizing LLMs like Gemini and Imagen)
-* 🏆 **Achievements:** 2x Sports Champion (Intra CSE & Interdepartment Basketball)
+* 🏆 **Achievements:** 2x Sports Champion (Intra-CSE Badminton & Interdepartment Basketball)
 
 ---
 
@@ -45,7 +45,7 @@ I am an undergraduate senior majoring in **Computer Science and Engineering** at
 ---
 
 ## 🏅 Leadership & Achievements
-* **🥇 Champion:** Intra CSE Tournament (2025/2026) — *Recent victory!*
+* **🥇 Champion:** Intra-CSE Tournament Badminton (2026)
 * **🏀 Champion:** Interdepartment Basketball Tournament (2024).
 * **🎖️ Vice President:** CSE Society, SUST — Orchestrating workshops, seminars, and hackathons.
 * **🤝 Campus Manager:** UIHP (World Bank Funded) — Managed campus-wide initiatives and coordination.
